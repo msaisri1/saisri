@@ -1,2 +1,4 @@
 # Hello
- wellocome to git
+ wellcome to git, hello coders
+
+ made changes 
